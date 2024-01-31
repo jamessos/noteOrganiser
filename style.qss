@@ -1,0 +1,23 @@
+QScrollBar
+{
+    background-color: none;
+    max-width: 0px
+}
+
+QLineEdit
+{
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+QPlainTextEdit
+{
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+
+QComboBox QAbstractItemView {
+    background-color: #1c1c1c;
+    selection-background-color: #c1c1c1;
+}
